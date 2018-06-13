@@ -1,0 +1,15 @@
+{
+  "name": "@snap40/swipable-tabs",
+  "version": "1.0.2",
+  "description": "Ionic-AngularJS Swipable tabs support.",
+  "dependencies": {
+      "angular": "1.5.x",
+      "angular-ui-router": "0.2.x"
+  },
+  "authors": [
+    "Ben Slimene Souhail <souhailbenslimene@outlook.com>"
+  ],
+  "publishConfig": {
+    "registry": "https://nexus.snap40.com/repository/npm-private/"
+  }
+}
