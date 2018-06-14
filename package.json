@@ -1,6 +1,6 @@
 {
   "name": "@snap40/swipeable-tabs",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Ionic-AngularJS Swipable tabs support.",
   "dependencies": {
       "angular": "1.5.x",
